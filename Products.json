@@ -1,0 +1,230 @@
+{
+    "Products": [
+        {
+            "name": "Men Blue Organic Cotton Hooded Sweatshirt",
+            "price": 13.00,
+            "featured": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nBlue solid sweatshirt has a hooded\n2 kangaroo pockets\nLong sleeves\nRibbed hem\n\nSIZE & FIT\nThe model (height 6') is wearing a size M\n\nFABRIC\nOrganic Cotton",
+            "imageURL": "MEN-HOODIES001-1",
+            "imageURLs": [],
+            "color": "DCF1F6",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Men",
+            "subcategory": "Hoodies",
+            "isShow": true,
+            "uid": "MEN-HOODIES001"
+        },
+        {
+            "name": "Men Mustard Yellow Hooded Sweatshirt",
+            "price": 15.99,
+            "featured": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nMustard Yellow solid sweatshirt has a hooded, 2 insert pocket pockets, long sleeves, zip closure, straight hem\n\nSIZE & FIT\nThe model (height 6') is wearing a size M\n\nFABRIC\n60% Cotton, 40% polyester",
+            "imageURL": "MEN-JACKETS001-1",
+            "imageURLs": [],
+            "color": "B9965E",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Men",
+            "subcategory": "Hoodies",
+            "isShow": true,
+            "uid": "MEN-HOODIES004"
+        },
+        {
+            "name": "Men Black Lightweight Training or Gym Sporty Jacket",
+            "price": 12.00,
+            "featured": true,
+            "bestSeller": true,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nBlack solid lightweight sporty jacket with, has a mock collar, 2 pockets, has a zip closure, long sleeves, straight hemline, polyester lining engineered with\n\nSIZE & FIT\nThe model (height 6') is wearing a size M\n\nFABRIC\nPolyester",
+            "imageURL": "MEN-JACKETS001-1",
+            "imageURLs": [],
+            "color": "000000",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Men",
+            "subcategory": "Jackets",
+            "isShow": true,
+            "uid": "MEN-JACKETS001"
+        },
+        {
+            "name": "Men Black & White Colourblocked Padded Jacket",
+            "price": 64.00,
+            "featured": true,
+            "bestSeller": true,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nBlack colourblocked padded jacket, has a hood, 3 pockets ,has a zip closure, long sleeves, straight hemline, polyester lining\n\nSIZE & FIT\nThe model (height 6') is wearing a size M\n\nFABRIC\nPolyester",
+            "imageURL": "MEN-JACKETS003-1",
+            "imageURLs": [],
+            "color": "000000, FFFFFF",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Men",
+            "subcategory": "Jackets",
+            "isShow": true,
+            "uid": "MEN-JACKETS003"
+        },
+        {
+            "name": "Women Blue Denim Shorts",
+            "price": 7.00,
+            "featured": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nBlue solid denim casual mid-rise shorts, has 5 pockets, a button closure\n\nSIZE & FIT\nThe model (height 5'8) is wearing a size 28\n\nFABRIC\n100% cotton",
+            "imageURL": "WOMEN-SHORTS001-1",
+            "imageURLs": [],
+            "color": "7684A1",
+            "sizes": [
+                "26",
+                "28",
+                "30",
+                "32",
+                "34",
+                "36"
+            ],
+            "category": "Women",
+            "subcategory": "Shorts",
+            "isShow": true,
+            "uid": "WOMEN-SHORTS001"
+        },
+        {
+            "name": "Women Off-White Puff Sleeve Faux Fur Solid Sweatshirt",
+            "price": 25.90,
+            "featured": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nOff-White solid faux fur sweatshirt, has a high neck, long puff sleeves, ribbed hem\n\nSIZE & FIT\nRegular Fit\nThe model (height 5'8) is wearing a size S\n\nFABRIC\nPolyester",
+            "imageURL": "WOMEN-SWEATSHIRTS002-1",
+            "imageURLs": [],
+            "color": "FFFFFF",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Women",
+            "subcategory": "Sweatshirts",
+            "isShow": true,
+            "uid": "WOMEN-SWEATSHIRTS002"
+        },
+        {
+            "name": "Women Pink & White Colourblocked Sweatshirt",
+            "price": 38.90,
+            "featured": true,
+            "bestSeller": true,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nPink & White Colourblocked sweatshirt has a round neck, long sleeves, closure, straight hem\n\nSIZE & FIT\nRegular Fit\nThe model (height 5'8) is wearing a size S\n\nFABRIC\n60% Cotton , 40% Polyester",
+            "imageURL": "WOMEN-SWEATSHIRTS003-1",
+            "imageURLs": [],
+            "color": "F5919E",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Women",
+            "subcategory": "Sweatshirts",
+            "isShow": true,
+            "uid": "WOMEN-SWEATSHIRTS003"
+        },
+        {
+            "name": "T-shirt Mysen Snoopy Yellow",
+            "price": 45.00,
+            "featured": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nClassic fitted women's crew neck T-shirt, made sustainably with care for people and planet.\n\n- 100% Cotton, Organic and Fairtrade-certified\n- Standard fit\n- Ribbed neckline\n\nSIZE & FIT\nStudio model is 179 cm tall and wearing size Small.\n\nFABRIC\n100% Organic and Fairtrade-certified Cotton, single jersey knit, 160 gsm.",
+            "imageURL": "WOMEN-TSHIRTS002-1",
+            "imageURLs": [],
+            "color": "F0E7A4",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Women",
+            "subcategory": "T-Shirts",
+            "isShow": true,
+            "uid": "WOMEN-TSHIRTS002"
+        },
+        {
+            "name": "T-shirt Mysen Woodstock Grey Melange",
+            "price": 45.00,
+            "featured": true,
+            "bestSeller": false,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nClassic fitted women's crew neck T-shirt, made sustainably with care for people and planet.\n\n- 100% Cotton, Organic and Fairtrade-certified\n- Standard fit\n- Ribbed neckline\n\nSIZE & FIT\nStudio model is 179 cm tall and wearing size Small.\n\nFABRIC\n100% Organic and Fairtrade-certified Cotton, single jersey knit, 160 gsm.",
+            "imageURL": "WOMEN-TSHIRTS004-1",
+            "imageURLs": [],
+            "color": "DEDBE2",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "category": "Women",
+            "subcategory": "T-Shirts",
+            "isShow": true,
+            "uid": "WOMEN-TSHIRTS004"
+        },
+        {
+            "name": "Women Blue Slim Fit Jeans",
+            "price": 18.00,
+            "featured": true,
+            "bestSeller": true,
+            "newArrival": false,
+            "description": "PRODUCT DETAILS\nMedium shade, no fade blue jeans\nSlim fit, mid-rise\nClean look\nNon stretchable\n4 pocket\nLength: cropped\n\nSIZE & FIT\nFit: Slim Fit\nNon Stretchable\nThe model (height 5'8) is wearing a size 28\n\nFABRIC\nCotton",
+            "imageURL": "WOMEN-JEANS003-1",
+            "imageURLs": [],
+            "color": "445C82",
+            "sizes": [
+                "28",
+                "30",
+                "32",
+                "34",
+                "36",
+                "38"
+            ],
+            "category": "Women",
+            "subcategory": "Jeans",
+            "isShow": true,
+            "uid": "WOMEN-JEANS003"
+        }
+    ]
+}
